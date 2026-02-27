@@ -1,0 +1,8 @@
+# .gitignore
+*.exe
+*.o
+*.out
+data/CSV_data/
+data/Images/
+data/InitialConditions.csv
+.vscode/
